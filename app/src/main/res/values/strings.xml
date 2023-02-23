@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebApp</string>
+    <string-array name="types">
+        <item>atm</item>
+        <item>food</item>
+        <item>church</item>
+    </string-array>
+</resources>
