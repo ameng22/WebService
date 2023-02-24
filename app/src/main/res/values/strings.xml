@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WebServiceApp</string>
+    <string-array name="types">
+        <item>atm</item>
+        <item>school</item>
+        <item>church</item>
+        <item>bank</item>
+        <item>hospital</item>
+    </string-array>
+</resources>
